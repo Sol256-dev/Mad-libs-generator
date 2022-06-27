@@ -1,6 +1,3 @@
-from ast import While
-
-
 loop = 8
 
 while (loop < 10):
